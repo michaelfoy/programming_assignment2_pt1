@@ -8,13 +8,9 @@ ICTSkills H. Dip. Computer Science - Programming fundamentals Assignment 2, Part
 Description
 -----------
 
-The purpose of this task was to create the architecture for an app to track and document an auction.
-The main method is contained in the organiser class, this tests that an auction can be successfully created and completed.
+The purpose of this task was to create the architecture for an app to track and document an auction.  
+The main method is contained in the organiser class, this tests that an auction can be successfully created and completed.  
 The project also features an implementation of the Merge Sort algorithm to sort through a collection of bid objects.
-
-The project includes 2 test classes:
- * TestSpacebook.java
- * TestMessaging.java.
 
 This project was developed using the BlueJ IDE version 3.1.6
 
